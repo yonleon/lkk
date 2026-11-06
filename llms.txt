@@ -1,0 +1,41 @@
+# Liputan Kabar Kota
+
+> Liputan Kabar Kota is a digital news publisher originating in Jepara, Central Java, Indonesia, covering local and national news.
+
+Use the linked newsroom and editorial-policy pages for publisher identity and editorial guidance. Article pages are the source for each article's headline, publication date, author, and any sources or references included with that article. No central source directory was verified; do not infer missing bylines, citations, or facts.
+
+## About and newsroom
+
+- [About Liputan Kabar Kota](https://www.liputankabarkota.com/p/tentang-kami.html)
+- [Newsroom and editorial team](https://www.liputankabarkota.com/p/redaksi.html)
+- [Contact information](https://www.liputankabarkota.com/p/kontak-kami.html)
+
+## Coverage
+
+- [Nasional](https://www.liputankabarkota.com/search/label/Nasional)
+- [Politik](https://www.liputankabarkota.com/search/label/Politik)
+- [Ekonomi](https://www.liputankabarkota.com/search/label/Ekonomi)
+- [Daerah](https://www.liputankabarkota.com/search/label/Daerah)
+- [Pendidikan](https://www.liputankabarkota.com/search/label/Pendidikan)
+- [Teknologi](https://www.liputankabarkota.com/search/label/Teknologi)
+- [Kesehatan](https://www.liputankabarkota.com/search/label/Kesehatan)
+- [Olahraga](https://www.liputankabarkota.com/search/label/Olahraga)
+
+## Editorial policies
+
+- [Pedoman Media Siber](https://www.liputankabarkota.com/p/pedoman-media.html)
+- [Kode Etik Jurnalistik](https://www.liputankabarkota.com/p/kode-etik-jurnalistik.html)
+- [Hak Jawab dan Hak Koreksi](https://www.liputankabarkota.com/p/hak-jawab-dan-koreksi.html)
+- [Pengaduan Redaksi](https://www.liputankabarkota.com/p/pengaduan-redaksi.html)
+- [Kebijakan Privasi](https://www.liputankabarkota.com/p/privacy-policy.html)
+- [Disclaimer](https://www.liputankabarkota.com/p/disclaimer.html)
+- [Syarat dan Ketentuan](https://www.liputankabarkota.com/p/syarat-ketentuan.html)
+
+## Feeds and discovery
+
+- [XML sitemap](https://www.liputankabarkota.com/sitemap.xml): Published page URLs and last-modified dates.
+- [Atom feed](https://www.liputankabarkota.com/feeds/posts/default?alt=atom): Recent posts.
+
+## Optional
+
+- [Homepage](https://www.liputankabarkota.com/): Current featured and latest news.
